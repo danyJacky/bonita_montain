@@ -1,0 +1,145 @@
+.div-top {
+    background-color: #EAF6F6;
+    position: relative;
+    padding-top: 100px;
+}
+
+
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Edu NSW ACT Foundation', cursive;   
+}
+
+
+.nube-superior {
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+
+.nube-inferior {
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+
+.p-principal{
+    font-family: 'Edu NSW ACT Foundation', cursive;
+    color:  #4bb9a6; 
+    font-size: 2rem;
+    font-weight: normal;
+    line-height: 2;
+    margin: 0 auto 2rem auto;
+}
+
+h1 {
+    font-family: 'Sacramento', cursive;
+    color:#66BFBF; 
+    font-size: 70px;
+    margin-bottom: 0;
+}
+    
+h3,
+a {
+    color:#11999E;
+  }
+
+
+.skills {
+   text-align: center;
+}
+
+
+.skill-row {
+    width: 50%;
+    margin: auto;
+    margin:100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+
+.browser {
+    float: left;
+    margin-right: 50px;
+   
+  }
+
+.java {
+    float: right;
+    margin-left:50px;
+
+}
+
+.mujer {
+    margin-top: 50px;
+
+}
+
+p {
+    color:#40514E ;
+    font-size: 20px;
+}
+
+hr{
+    border-style:none;
+    border-top-style: dotted;
+    border-width: 10px;
+    border-color:#EAF6F6;
+    width: 5%;
+    margin: 50px auto 50px auto;
+}
+
+h2 {
+    color:#66BFBF ;
+}
+
+.bottom-container {
+    background-color:#66BFBF ;
+    height: 100px;
+    margin: 50px 0 0 0;
+    padding-top: 30px;
+   
+}
+
+.jackyolan {
+    color: #EAF6F6;
+}
+
+.btn {
+    background: #34d9c3;
+    background-image: -webkit-linear-gradient(top, #34d9c3, #2bb87d);
+    background-image: -moz-linear-gradient(top, #34d9c3, #2bb87d);
+     background-image: -ms-linear-gradient(top, #34d9c3, #2bb87d);
+    background-image: -o-linear-gradient(top, #34d9c3, #2bb87d);
+    background-image: linear-gradient(to bottom, #34d9c3, #2bb87d);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+      }
+      
+      .btn:hover {
+        background: #3cb0fd;
+        background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+        background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+        background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+        background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+        background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+        text-decoration: none;
+      }
+    
+
+
+.intro {
+    width: 30%;
+    margin: auto;
+    line-height: 2;
+    margin-bottom: 30px;
+}
+
